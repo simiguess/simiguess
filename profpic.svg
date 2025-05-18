@@ -18,6 +18,10 @@
       animation: fadeIn 0.4s ease-in-out forwards;
       animation-delay: calc(0.2s * var(--i));
     }
+
+    .key { 
+        
+    }
   </style>
 
   <rect width="1000px" height="470px" fill="#161b22" rx="15"/>
@@ -69,4 +73,19 @@
     <tspan x="15" y="460" class="fade" style="--i:44;">%%%@@@@@@ =-:==*== %:%@- +: @#%-*-:..               :       @@-%.==@:*@@@:## #=@=+@                 </tspan>
     <tspan x="15" y="470" class="fade" style="--i:45;">#@%+%*@+ : * : + ==- .= * =% +                             @*=:::=+ #*#   .:.=:.# #        </tspan>
   </text>
+  <text x ="390" y =" 50" fill="#c9d1d9">
+  <tspan  x ="390" y =" 40" class="fade" style="--i:2;"> simiguess     -———————————————————————————————————————————-—- </tspan> 
+  <tspan  x ="390" y =" 50" class="fade" style="--i:2;">   </tspan> 
+  <tspan  x ="390" y =" 50" class="fade" style="--i:2;">   </tspan> 
+  <tspan  x ="390" y =" 50" class="fade" style="--i:2;">   </tspan> 
+  <tspan  x ="390" y =" 50" class="fade" style="--i:2;">   </tspan> 
+  <tspan  x ="390" y =" 50" class="fade" style="--i:2;">   </tspan> 
+
+  </text>
+
+
+
+
+
+  
 </svg>
