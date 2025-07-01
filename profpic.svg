@@ -116,7 +116,7 @@
   <tspan  class="fade cc" style="--i:18;">..........................................</tspan>
   <tspan class="fade value" style="--i:18;">simranbatra2003@gmail.com </tspan> 
 
-  <tspan x="500" y="220" class="fade key" style="--i:20;"> linkedIn</tspan>
+  <tspan x="500" y="220" class="fade key" style="--i:20;"> LinkedIn</tspan>
   <tspan  class="fade cc" style="--i:20;">.......................................................</tspan>
   <tspan class="fade value" style="--i:20;">simiguess </tspan>
 
@@ -133,20 +133,23 @@
   <tspan  x ="500" y =" 280" class="fade" style="--i:26;"> stats    ————————————————————————————————————————————————————————————————————— </tspan> 
 
   <tspan x="500" y="300" class="fade key" style="--i:28;"> Repos</tspan>
-  <tspan class="fade cc" style="--i:28;">..........................................</tspan>
-  <tspan class="fade value" style="--i:28;">Unreal, Unity, Blender</tspan>
+  <tspan class="fade cc" style="--i:28;">..................................................................</tspan>
+  <tspan class="fade value" style="--i:28;">8</tspan>
 
   <tspan x="500" y="320" class="fade key" style="--i:30;"> Commits</tspan>
-  <tspan class="fade cc" style="--i:30;">..........................................</tspan>
-  <tspan class="fade value" style="--i:30;">Unreal, Unity, Blender</tspan>
+  <tspan class="fade cc" style="--i:30;">...............................................................</tspan>
+  <tspan class="fade value" style="--i:30;">90</tspan>
 
   <tspan x="500" y="340" class="fade key" style="--i:32;"> Lines of Code</tspan>
-  <tspan class="fade cc" style="--i:32;">..........................................</tspan>
-  <tspan class="fade value" style="--i:32;">Unreal, Unity, Blender</tspan>
+  <tspan class="fade cc" style="--i:32;">.....................................................</tspan>
+  <tspan class="fade value" style="--i:32;">18,596</tspan>
   
   <tspan  x ="390" y =" 100" class="fade" style="--i:5;">   </tspan> 
   <tspan  x ="390" y =" 120" class="fade" style="--i:6;">   </tspan> 
   <tspan  x ="390" y =" 140" class="fade" style="--i:7;">   </tspan> 
+
+
+
 
   </text>
 
