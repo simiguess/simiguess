@@ -9,6 +9,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simiguess&show_icons=true&count_private=true&theme=tokyonight" alt="Simiguess GitHub Stats" />
-</p>
