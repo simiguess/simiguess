@@ -31,116 +31,115 @@
 
   <rect width="1100px" height="470px" fill="#161b22" rx="15"/>
   
-  <text x="15" y="30" fill="#c9d1d9" class="ascii">
-    <tspan x="15" y="30" class="fade" style="--i:1;">                                                                         .                          </tspan>
-    <tspan x="15" y="40" class="fade" style="--i:2;">       .                           @@@@@@@@@@:=                                                      </tspan>
-    <tspan x="15" y="50" class="fade" style="--i:3;"> .                             @@@@=*=.=--+==@@@@@@@@@@@*                                            </tspan>
-    <tspan x="15" y="60" class="fade" style="--i:4;">                            @@@@@ *#==@-@+@@==@##%%%=+@*@@@@                                        </tspan>
-    <tspan x="15" y="70" class="fade" style="--i:5;">         .                @@%%=.@@#*=%#-@:*:#*=+#= *==*++ #@@@                                      </tspan>
-    <tspan x="15" y="80" class="fade" style="--i:6;">                        @@@:*-*.+:+@#:%=-*#%@===+-=@#@@*-+%  @@@                                    </tspan>
-    <tspan x="15" y="90" class="fade" style="--i:7;">                       @@ *%.-@ %@--=+ @+@%#:=@***+ = %=:%.@#% @@:      .                          </tspan>
+  <text x="15" y="30" fill="#c9d1d9" class="ascii">                                             
+    <tspan x="15" y="30" class="fade" style="--i:1;">        ⊹                 ⊹                                 ⊹                                        </tspan>
+    <tspan x="15" y="40" class="fade" style="--i:2;">               ⊹                    @@@@@@@@@@:=    ⊹                                                 </tspan>
+    <tspan x="15" y="50" class="fade" style="--i:3;"> ⊹                             @@@@=*=.=--+==@@@@@@@@@@@*              ★                              </tspan>
+    <tspan x="15" y="60" class="fade" style="--i:4;">                     ★      @@@@@ *#==@-@+@@==@##%%%=+@*@@@@                                         </tspan>
+    <tspan x="15" y="70" class="fade" style="--i:5;">         ⊹                @@%%=.@@#*=%#-@:*:#*=+#= *==*++ #@@@                                      </tspan>
+    <tspan x="15" y="80" class="fade" style="--i:6;">                        @@@:*-*.+:+@#:%=-*#%@===+-=@#@@*-+%  @@@                                   </tspan>
+    <tspan x="15" y="90" class="fade" style="--i:7;">               ★       @@ *%.-@ %@--=+ @+@%#:=@***+ = %=:%.@#% @@:                                 </tspan>
     <tspan x="15" y="100" class="fade" style="--i:8;">                      @@%@=@-*%%*:#*+@:% #.%%@.*.@@@*@*#*-*%*--*%@                                 </tspan>
-    <tspan x="15" y="110" class="fade" style="--i:9;">                     @@=-%=-@=.% @@*:@+@++%#.*+@%=:@- +#*%--@#+#@%@                                </tspan>
+    <tspan x="15" y="110" class="fade" style="--i:9;">    ⊹                @@=-%=-@=.% @@*:@+@++%#.*+@%=:@- +#*%--@#+#@%@          ✧                     </tspan>
     <tspan x="15" y="120" class="fade" style="--i:10;">                    @@:@*===#=*%**%#+=-#%@+@%@=#%@@.@%@+@*#%*: *#%*@:                              </tspan>
     <tspan x="15" y="130" class="fade" style="--i:11;">                  @@@@==%%=%-@-#+%-++-@+*.*@===#:=##%:=*=+=@*+%*:#-@-                              </tspan>
-    <tspan x="15" y="140" class="fade" style="--i:12;">             .   @@@%#@:% %+*.+*=#.=:==@.@@=*:%@@% :** :#-:.:*=+@#%*@                              </tspan>
+    <tspan x="15" y="140" class="fade" style="--i:12;">             ⊹   @@@%#@:% %+*.+*=#.=:==@.@@=*:%@@% :** :#-:.:*=+@#%*@                            </tspan>
     <tspan x="15" y="150" class="fade" style="--i:13;">                @@.%==#-=*--=#@*+*:%++-::  =++:+@%*.@@ =@+*:%@*-=%@::@.                            </tspan>
     <tspan x="15" y="160" class="fade" style="--i:14;">               @@@-@%@**#@@@@-*=@%. ::- *@=#: .@+ =% %: *=* :=:+#+-%=%@                            </tspan>
-    <tspan x="15" y="170" class="fade" style="--i:15;">              *@ *# %@.#* =-=*@@% #@%% @- *= = : . *--= @.-:=%#- #=+=%@%   .                      </tspan>
+    <tspan x="15" y="170" class="fade" style="--i:15;">    ✧         *@ *# %@.#* =-=*@@% #@%% @- *= = : . *--= @.-:=%#- #=+=%@%   ⊹                 </tspan>
     <tspan x="15" y="180" class="fade" style="--i:16;">             @@+ %@#+@#+%%@-%%.* =.::: :%%--=*@:@% @ %# @:*: @*=#+%@:+*@                          </tspan>
-    <tspan x="15" y="190" class="fade" style="--i:17;">             @@ @%++*+*-*:*-*==% * .% -@=@ +- = +# *%:@ @--=-+# + *=*=*@                          </tspan>
-    <tspan x="15" y="200" class="fade" style="--i:18;">            @@*=+*@@%:@%*--:%=%#*@@:@ %% -=@+%* ..*%*=* *.: .#-:=:=%@:#@:    .                    </tspan>
+    <tspan x="15" y="190" class="fade" style="--i:17;">             @@ @%++*+*-*:*-*==% * .% -@=@ +- = +# *%:@ @--=-+# + *=*=*@                         </tspan>
+    <tspan x="15" y="200" class="fade" style="--i:18;">            @@*=+*@@%:@%*--:%=%#*@@:@ %% -=@+%* ..*%*=* *.: .#-:=:=%@:#@:    ⊹                    </tspan>
     <tspan x="15" y="210" class="fade" style="--i:19;">            @*=*.@@%-=@=-:@:@*@  =-@%#@#:..   =@*@@::=  *=*@@@++%%%=%=%+@                         </tspan>
-    <tspan x="15" y="220" class="fade" style="--i:20;">          . @@=@#+@%@@%==-#= =  =* = =* @@=@@=# + . %::@@@@@:.=:%+ @=-@%@                         </tspan>
-    <tspan x="15" y="230" class="fade" style="--i:21;">            #%- @=@=@*@:. * =@      +*. % %:  % %@@ @.*@ : : *- * :@ ===@@                         </tspan> 
-    <tspan x="15" y="240" class="fade" style="--i:22;">           ==@ @%*@ =@@=    : *==%+ * :  :@   :* % :        =*** .* *@@@@@                          </tspan>
+    <tspan x="15" y="220" class="fade" style="--i:20;">   ★      ⊹ @@=@#+@%@@%==-#= =  =* = =* @@=@@=# + . %::@@@@@:.=:%+ @=-@%@                         </tspan>
+    <tspan x="15" y="230" class="fade" style="--i:21;">            #%- @=@=@*@:. * =@      +*. % %:  % %@@ @.*@ : : *- * :@ ===@@                    </tspan> 
+    <tspan x="15" y="240" class="fade" style="--i:22;">           ==@ @%*@ =@@=    : *==%+ * :  :@   :* % :        =*** .* *@@@@@   *                       </tspan>
     <tspan x="15" y="250" class="fade" style="--i:23;">           @:@ @.+@ =@ @%#@@@@@% :.:.@*@@@      .  :  ==@@@*=     +@@@   @                          </tspan>
-    <tspan x="15" y="260" class="fade" style="--i:24;">           @=*%@@@@@+@@ @@@    %@: @ @@ =. @@       @@::@=:@.@@.:@=% @@@@@                          </tspan>
-    <tspan x="15" y="270" class="fade" style="--i:25;"> .         @-: *+%*.**@  @      -@@@  :   =  @*%@@@@= :+ @@  *   @*@. =*%@                          </tspan>
-    <tspan x="15" y="280" class="fade" style="--i:26;">           *#%@*%*:%@%#  @    :         .     @:. @@ ::   . ::  @@@+ %@.%@                          </tspan>
-    <tspan x="15" y="290" class="fade" style="--i:27;">  .        @ -@==*.@%% %  @       .   .      @     @   .  .     @@%  %%@@                           </tspan>
-    <tspan x="15" y="300" class="fade" style="--i:28;">           @-%=@@#%==@@=  % :               .@     @@   .     . @   @@ @                            </tspan>
+    <tspan x="15" y="260" class="fade" style="--i:24;">           @=*%@@@@@+@@ @@@    %@: @ @@ =. @@       @@::@=:@.@@.:@=% @@@@@                        </tspan>
+    <tspan x="15" y="270" class="fade" style="--i:25;"> ⊹         @-: *+%*.**@  @      -@@@  :   =  @*%@@@@= :+ @@  *   @*@. =*%@                          </tspan>
+    <tspan x="15" y="280" class="fade" style="--i:26;">           *#%@*%*:%@%#  @    :         .     @:. @@ ::   . ::  @@@+ %@.%@      *                   </tspan>
+    <tspan x="15" y="290" class="fade" style="--i:27;">  ⊹        @ -@==*.@%% %  @       .   .      @     @   .  .     @@%  %%@@                           </tspan>
+    <tspan x="15" y="300" class="fade" style="--i:28;">           @-%=@@#%==@@=  % :               .@     @@   .     . @   @@ @          ✧                 </tspan>
     <tspan x="15" y="310" class="fade" style="--i:29;">           =*=# .*=@@@    .%      .       :@=    .  +@       :     @@@@                             </tspan>
-    <tspan x="15" y="320" class="fade" style="--i:30;">           #*=:@@%@:%- @@    @            @#         =@      -   @@@@                               </tspan>
+    <tspan x="15" y="320" class="fade" style="--i:30;">           #*=:@@%@:%- @@    @            @#         =@      -   @@@@        ⊹                      </tspan>
     <tspan x="15" y="330" class="fade" style="--i:31;">           @+:*#+*+#*%@=@     . @@@@@@@@                  :@-    @@                                 </tspan>
-    <tspan x="15" y="340" class="fade" style="--i:32;"> .         @= *::=@*@*:@@                 :--%-   .*:        .  =*@ #                               </tspan>
-    <tspan x="15" y="350" class="fade" style="--i:33;">      :    =** -+@=@@% +@@                     . :          .   @ #               .                 </tspan>
-    <tspan x="15" y="360" class="fade" style="--i:34;">      :    #:#:. @%=@* -@#                            .       @--@                                 </tspan>
-    <tspan x="15" y="370" class="fade" style="--i:35;">           . %#=*:=-+%=+**@    :       .    --   +=#*  .  .    @:* @@@                              </tspan>
-    <tspan x="15" y="380" class="fade" style="--i:36;">             %-@.*:-@@@: @@@          = =@# -%%#*%:-+@=       @%+% -=@@@@@@@@@@@#@+                 </tspan>
-    <tspan x="15" y="390" class="fade" style="--i:37;">              *%@* + %%%#:*=@*            +        .*       @-@ @:@@:+ =: :@@:*% +@.                </tspan>
-    <tspan x="15" y="400" class="fade" style="--i:38;">              * @=-===+-%%@ #:@            :@#:.**%        @@--@=  **@@.=+* =# =:=                  </tspan>
-    <tspan x="15" y="410" class="fade" style="--i:39;">           = +%:%%#.:::-+.*@%%@@@                      .+  @%@ @.@#@ %*@@@#@=#@-*@+                 </tspan>
-    <tspan x="15" y="420" class="fade" style="--i:40;">   .       : -.:%:*@=%=:%.* @#:%@@. =               ..%   @ =: .  %@:%=*##*%%=.+#==                 </tspan>
-    <tspan x="15" y="430" class="fade" style="--i:41;">     :  @   %===**#@=@@ *#@= *@%@@*    - .        --     *    @@@@*=@%+=%-=%@:%#@-+:                </tspan>
-    <tspan x="15" y="440" class="fade" style="--i:42;">@@@@@@@@@@@%%=-@: %@.*@:% :@**:%@:=        *==:==      :*    @@-%%@=@@==@.#+ =*++%=#                </tspan>
-    <tspan x="15" y="450" class="fade" style="--i:43;">=*@ -.= :%:-@:-@-=@ +#=-@%=@:%**:=== :               .:      @#*=@*@=+*%@=*%*@** @*-                </tspan>
-    <tspan x="15" y="460" class="fade" style="--i:44;">%%%@@@@@@ =-:==*== %:%@- +: @#%-*-:..               :       @@-%.==@:*@@@:## #=@=+@                 </tspan>
-    <tspan x="15" y="470" class="fade" style="--i:45;">#@%+%*@+ : * : + ==- .= * =% +                             @*=:::=+ #*#   .:.=:.# #        </tspan>
+    <tspan x="15" y="340" class="fade" style="--i:32;"> ⊹         @= *::=@*@*:@@                 :--%-   .*:        .  =*@ #                               </tspan>
+    <tspan x="15" y="350" class="fade" style="--i:33;">      ✧    =** -+@=@@% +@@                     . :          .   @ #               ⊹                 </tspan>
+    <tspan x="15" y="360" class="fade" style="--i:34;">      ✧    #:#:. @%=@* -@#                            .       @--@                                 </tspan>
+    <tspan x="15" y="370" class="fade" style="--i:35;">           . %#=*:=-+%=+**@    :       .    --   +=#*  .  .    @:* @@@                                        :       *                                  *         ★                                   </tspan>
+    <tspan x="15" y="380" class="fade" style="--i:36;">             %-@.*:-@@@: @@@          = =@# -%%#*%:-+@=       @%+% -=@@@@@@@@@@@#@+       *                                        *                    ⊹               ⊹                              </tspan>
+    <tspan x="15" y="390" class="fade" style="--i:37;">              *%@* + %%%#:*=@*            +        .*       @-@ @:@@:+ =: :@@:*% +@.                ★                                    ✧                    ⊹              *            ⊹      ✧    </tspan>
+    <tspan x="15" y="400" class="fade" style="--i:38;">              * @=-===+-%%@ #:@            :@#:.**%        @@--@=  **@@.=+* =# =:=                            ⊹                     ✧            *                                                    </tspan>
+    <tspan x="15" y="410" class="fade" style="--i:39;">           = +%:%%#.:::-+.*@%%@@@                      .+  @%@ @.@#@ %*@@@#@=#@-*@+                                   :       *                                  *         ★                 ⊹         </tspan>
+    <tspan x="15" y="420" class="fade" style="--i:40;">   ✧       : -.:%:*@=%=:%.* @#:%@@. =               ..%   @ =: .  %@:%=*##*%%=.+#==             *                                      ✧                                                               </tspan>
+    <tspan x="15" y="430" class="fade" style="--i:41;">     ✧  @   %===**#@=@@ *#@= *@%@@*    - .        --     *    @@@@*=@%+=%-=%@:%#@-+:     ★                      ★                          :        ★                  ★          *              ⊹     </tspan>
+    <tspan x="15" y="440" class="fade" style="--i:42;">@@@@@@@@@@@%%=-@: %@.*@:% :@**:%@:=        *==:==      :*    @@-%%@=@@==@.#+ =*++%=#                                 ⊹          ⊹                        *                                             </tspan>
+    <tspan x="15" y="450" class="fade" style="--i:43;">=*@ -.= :%:-@:-@-=@ +#=-@%=@:%**:=== :               .:      @#*=@*@=+*%@=*%*@** @*-               *                                                                                           ★       </tspan>
+    <tspan x="15" y="460" class="fade" style="--i:44;">%%%@@@@@@ =-:==*== %:%@- +: @#%-*-:..               :       @@-%.==@:*@@@:## #=@=+@    ⊹                     *                     ⊹                  ★                            :                   </tspan>
+    <tspan x="15" y="470" class="fade" style="--i:45;">#@%+%*@+ : * : + ==- .= * =% +                             @*=:::=+ #*#   .:.=:.# #                                         </tspan>
   </text>
-  <text x ="500" y =" 50" fill="#c9d1d9" font-size="12px">
-  <tspan  x ="500" y =" 40" class="fade" style="--i:2;"> simiguess     ———————————————————————————————————————————————————————————————— </tspan> 
+  <text x ="450" y =" 50" fill="#c9d1d9" font-size="13px">
+  <tspan  x ="450" y =" 40" class="fade" style="--i:2;"> simiguess     ———————————————————————————————————————————————————————————————— </tspan> 
   
   <!-- technical tools -->
 
-  <tspan x="500" y="60" class="fade key" style="--i:4;"> Languages</tspan>
+  <tspan x="450" y="60" class="fade key" style="--i:4;"> Languages</tspan>
   <tspan class="fade cc" style="--i:4"> ...................................</tspan>
   <tspan  class="fade value" style="--i:4">Python, JavaScript, C#, C++</tspan>
 
-  <tspan x="500" y="80" class="fade key" style="--i:6;"> IDE</tspan>
+  <tspan x="450" y="80" class="fade key" style="--i:6;"> IDE</tspan>
   <tspan class="fade cc" style="--i:6;">...............................................</tspan>
   <tspan class="fade value" style="--i:6;">VS Code, Sypder, Rider</tspan>
 
-  <tspan x="500" y="100" class="fade key" style="--i:8;"> Game Dev</tspan>
+  <tspan x="450" y="100" class="fade key" style="--i:8;"> Game Dev</tspan>
   <tspan class="fade cc" style="--i:8;">..........................................</tspan>
   <tspan class="fade value" style="--i:8;">Unreal, Unity, Blender</tspan>
   
-  <tspan x="500" y="120" class="fade key" style="--i:10;"> Tools </tspan>
+  <tspan x="450" y="120" class="fade key" style="--i:10;"> Tools </tspan>
   <tspan class="fade cc" style="--i:10;">.......................................................</tspan>
   <tspan class="fade value" style="--i:10;">Git, Matlab</tspan>
 
-  <tspan x="500" y="140" class="fade key" style="--i:12;"> Focus</tspan>
+  <tspan x="450" y="140" class="fade key" style="--i:12;"> Focus</tspan>
   <tspan  class="fade cc" style="--i:12;">..............................</tspan>
   <tspan class="fade value" style="--i:12;">Game Dev, Technical Art, Physics Sims</tspan>
 
 
-  <tspan x="500" y="160" class="fade key" style="--i:14;"> Currently Exploring</tspan>
+  <tspan x="450" y="160" class="fade key" style="--i:14;"> Currently Exploring</tspan>
   <tspan  class="fade cc" style="--i:14;">.........................</tspan>
   <tspan class="fade value" style="--i:14;">Three.js, R3F, Spectacles AR </tspan> 
 
 <!--  perosnal info  -->
-  <tspan  x ="500" y =" 180" class="fade" style="--i:16;"> contact    ——————————————————————————————————————————————————————————————————— </tspan> 
+  <tspan  x ="450" y =" 180" class="fade" style="--i:16;"> contact    ——————————————————————————————————————————————————————————————————— </tspan> 
 
 
-  <tspan x="500" y="200" class="fade key" style="--i:18;"> Email</tspan>
+  <tspan x="450" y="200" class="fade key" style="--i:18;"> Email</tspan>
   <tspan  class="fade cc" style="--i:18;">..........................................</tspan>
   <tspan class="fade value" style="--i:18;">simranbatra2003@gmail.com </tspan> 
 
-  <tspan x="500" y="220" class="fade key" style="--i:20;"> LinkedIn</tspan>
+  <tspan x="450" y="220" class="fade key" style="--i:20;"> LinkedIn</tspan>
   <tspan  class="fade cc" style="--i:20;">.......................................................</tspan>
   <tspan class="fade value" style="--i:20;">simiguess </tspan>
-
-  <tspan x="500" y="240" class="fade key" style="--i:22;"> Website</tspan>
+  <tspan x="450" y="240" class="fade key" style="--i:22;"> Website</tspan>
   <tspan  class="fade cc" style="--i:22;">....................................................</tspan>
   <tspan class="fade value" style="--i:22;">[coming soon] </tspan>
 
 
-  <tspan x="500" y="260" class="fade key" style="--i:24;"> Discord</tspan>
+  <tspan x="450" y="260" class="fade key" style="--i:24;"> Discord</tspan>
   <tspan  class="fade cc" style="--i:24;">........................................................</tspan>
   <tspan class="fade value" style="--i:24;">simiguess </tspan>
 
 
-  <tspan  x ="500" y =" 280" class="fade" style="--i:26;"> stats    ————————————————————————————————————————————————————————————————————— </tspan> 
+  <tspan  x ="450" y =" 280" class="fade" style="--i:26;"> stats    ————————————————————————————————————————————————————————————————————— </tspan> 
 
-  <tspan x="500" y="300" class="fade key" style="--i:28;"> Repos</tspan>
+  <tspan x="450" y="300" class="fade key" style="--i:28;"> Repos</tspan>
   <tspan class="fade cc" style="--i:28;">..................................................................</tspan>
   <tspan class="fade value" style="--i:28;">8</tspan>
 
-  <tspan x="500" y="320" class="fade key" style="--i:30;"> Commits</tspan>
+  <tspan x="450" y="320" class="fade key" style="--i:30;"> Commits</tspan>
   <tspan class="fade cc" style="--i:30;">...............................................................</tspan>
   <tspan class="fade value" style="--i:30;">90</tspan>
 
-  <tspan x="500" y="340" class="fade key" style="--i:32;"> Lines of Code</tspan>
+  <tspan x="450" y="340" class="fade key" style="--i:32;"> Lines of Code</tspan>
   <tspan class="fade cc" style="--i:32;">.....................................................</tspan>
   <tspan class="fade value" style="--i:32;">18,596</tspan>
   
