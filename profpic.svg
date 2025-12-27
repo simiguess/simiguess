@@ -109,7 +109,7 @@
   <tspan class="fade value" style="--i:14;">Three.js, R3F, Spectacles AR </tspan> 
 
 <!--  perosnal info  -->
-  <tspan  x ="450" y =" 180" class="fade" style="--i:16;"> contact    ——————————————————————————————————————————————————————————————————— </tspan> 
+  <tspan  x ="450" y ="180" class="fade" style="--i:16;"> contact    ——————————————————————————————————————————————————————————————————— </tspan> 
 
 
   <tspan x="450" y="200" class="fade key" style="--i:18;"> Email</tspan>
@@ -129,7 +129,7 @@
   <tspan class="fade value" style="--i:24;">simiguess </tspan>
 
 
-  <tspan  x ="450" y =" 280" class="fade" style="--i:26;"> stats    ————————————————————————————————————————————————————————————————————— </tspan> 
+  <tspan  x ="450" y ="280" class="fade" style="--i:26;"> stats    ————————————————————————————————————————————————————————————————————— </tspan> 
 
   <tspan x="450" y="300" class="fade key" style="--i:28;"> Repos</tspan>
   <tspan class="fade cc" style="--i:28;">..................................................................</tspan>
